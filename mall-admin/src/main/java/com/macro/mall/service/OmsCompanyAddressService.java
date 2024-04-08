@@ -10,7 +10,7 @@ import java.util.List;
  */
 public interface OmsCompanyAddressService {
     /**
-     * 获取全部收货地址
+     * 获取全部的收货地址
      */
     List<OmsCompanyAddress> list();
 }
